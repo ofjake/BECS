@@ -25,11 +25,12 @@ Please ensure the snippet follows our guidelines:
 + Ensure the code is well-commented for clarity.
 + Test the snippet to ensure it functions correctly.
 
-##### Credits:
-This project is created by JakeRMiller. 
-##### License:
-This repository is licensed under the MIT License - see the LICENSE file for details.
 ##### Feedback:
 We welcome any feedback or suggestions for improving this repository.
 
 Happy coding! 🚀
+
+##### Credits:
+This project is created by JakeRMiller. 
+##### License:
+This repository is licensed under the MIT License - see the LICENSE file for details.
