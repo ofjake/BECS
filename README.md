@@ -1,9 +1,9 @@
 ![JakeRMiller iconmark](https://github.com/ofjake/README/blob/main/logo.png) 
 # **[BECS](https://jakermiller.com/becs)** 
 
-## This repository contains simple HTML and CSS implementation for basic email codex. 
-### It aims to provide a handy resource for frequently used snippets of code.
-#### Here you'll find a collection of frequently used code snippets that you can easily copy and use in your projects. 
+## This repository contains HTML and CSS implementation for basic email snippets. 
+### It aims to provide a handy resource for 'not-so frequently used' snippets of code.
+#### Here you'll find a collection of code snippets that you can easily copypasta in your projects. 
 
 #### Features:
 + Copyable Snippets: Each code snippet is presented in a copyable format, allowing you to quickly grab the code you need.
@@ -15,12 +15,8 @@ Browse through the categories to find the snippet you need.
 Click on the snippet to view its details.
 Paste the snippet into your project and adapt it as necessary.
 
-Sandbox:
-Visit our Sandbox to experiment with selected code snippets. Edit code directly in your browser and see the results instantly.
-
 Categories:
-HTML
-Framework CSS
+HTML / Framework CSS
 
 Found a useful snippet missing from our collection? Feel free to contribute by submitting a pull request. 
 
