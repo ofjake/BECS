@@ -1,4 +1,4 @@
-![JakeRMiller iconmark](https://github.com/ofjake/README/blob/main/logo.png) 
+
 # **[BECS](https://jakermiller.com/becs)** 
 
 ## This repository contains HTML and CSS implementation for basic email snippets. 
