@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Email Codex</title>
+    <meta name="ROBOTS" content="NOINDEX, NOFOLLOW">
+    <meta name="description" content="Basic Email Codex - Speed up development times with this boilerplate documentation">
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <main>
+		<!-- Navigation -->
+		<aside>
+			<div id="nav" class="fw-sidebar" role="navigation">
+				<h1>&nbsp;Becs</h1>
+				<ul class="fw-nav-group">
+					<li><a href="#fwheader">Header</a></li>
+					<!-- <li><a href="#fwcta">CTA</a></li> -->
+					<li><a href="#fwCopy">Body</a></li> 	
+					<li><a href="#fwpreheadfix">Prehead fix</a></li> 	
+					<li><a href="#codeTextarea">Sandbox</a></li> 
+				</ul>
+			</div>
+		</aside>
+		<!-- Codes -->
+		<article>
+      <div id="codeBlocks">
+
+<!--  -->
+        <div id="fwheader">
+          <img src="images/header.jpg" alt="Header" class="exampleimage" >
+            <div id="header" class="code-block">
+<pre><code>&lt;!-- Header --&gt;
+  &lt;tr&gt;
+  &lt;td&gt;
+    &lt;a href="$DealershipUrl" target="_blank" data-surl-type="HomePage" data-surl-meta1="Website Header"&gt;&lt;img src="header.jpg" alt="$fwHeaderAltText" class="flex" /&gt;&lt;/a&gt;
+  &lt;/td&gt;
+&lt;/tr&gt;
+</code></pre>
+            </div>
+            <button class="button" onclick="copyCode('header', 'tooltip1')">Copy Header Code</button>
+            <button class="button-addto" onclick="showCodeBlock('header')">Add to Sandbox</button>
+            <div class="tooltip" id="tooltip1">Code copied!</div>
+        </div>
+
+<!--  -->
+        <div id="fwCopy">
+          <img src="images/body.jpg" alt="Body" class="exampleimage" >
+            <div id="Body" class="code-block">
+<pre><code>&lt;!-- Body --&gt;
+  &lt;tr&gt;
+   &lt;td style="font-size:14px; color:#000000; padding:20px; text-align:left;"&gt;
+    &lt;p style="margin-top:0; margin-bottom:20px;"&gt;&lt;a href="$DealershipUrl" target="_blank" style="color:#000000; text-decoration:underline;" data-surl-type="HomePage" data-surl-meta1="Homepage body"&gt;$FriendlyDealershipUrl&lt;/a&gt;&lt;/p&gt;
+              
+    &lt;p style="margin-top:0; margin-bottom:20px;"&gt;&lt;a href="tel:$CustomerServiceNumber" style="color:#000000; text-decoration:none;"&gt;$CustomerServiceNumber&lt;/a&gt;&lt;/p&gt;
+   &lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;!-- Body --&gt;
+</code></pre>
+            </div>
+            <button class="button" onclick="copyCode('Body', 'tooltip2')">Copy Body Code</button>
+            <button class="button-addto" onclick="showCodeBlock('Body')">Add to Sandbox</button>
+            <div class="tooltip" id="tooltip2">Code copied!</div>
+        </div>
+
+<!--  -->
+        <div id="fwpreheadfix">
+            <div id="preheadfix" class="code-block">
+<pre><code>Preheader &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp; &amp;zwnj; &amp;nbsp;
+</code></pre>
+    </div>
+    <button class="button" onclick="copyCode('preheadfix', 'tooltip3')">Copy preheadfix Code</button>
+    <button class="button-addto" onclick="showCodeBlock('preheadfix')">Add to Sandbox</button>
+    <div class="tooltip" id="tooltip3">Code copied!</div>
+        </div>
+
+
+      </div>
+      <textarea id="codeTextarea" contenteditable="true"></textarea>
+      <button class="button" onclick="copyAllCode()">Copy All Code</button>
+      <div class="tooltip" id="tooltipAll">All code copied!</div>
+    </article>
+    <script src="script.js"></script>
+</body>
+</html>
