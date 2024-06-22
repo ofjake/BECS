@@ -107,11 +107,11 @@ main {
   margin: 1em 0;
 }
 
-
 article {
   grid-area: content;
   background-color: var(--light-100);
   padding: 20px 20px 80px;
+  overflow-y: scroll;
 }
 
 aside {
