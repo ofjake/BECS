@@ -33,4 +33,4 @@ Happy coding! 🚀
 ##### Credits:
 This project is created by JakeRMiller. 
 ##### License:
-This repository is licensed under the MIT License - see the LICENSE file for details.
+This repository is licensed under the MIT License.
