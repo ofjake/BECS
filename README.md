@@ -26,7 +26,7 @@ Please ensure the snippet follows our guidelines:
 + Test the snippet to ensure it functions correctly.
 
 ##### Feedback:
-We welcome any feedback or suggestions for improving this repository.
+I welcome any feedback or suggestions for improving this repository.
 
 Happy coding! 🚀
 
