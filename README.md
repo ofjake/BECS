@@ -1,7 +1,7 @@
 
 # **[BECS](https://jakermiller.com/becs)** 
 
-## This repository contains HTML and CSS implementation for basic email snippets. 
+## This repository contains HTML and CSS implementation for email snippets. 
 ### It aims to provide a handy resource for 'not-so frequently used' snippets of code.
 #### Here you'll find a collection of code snippets that you can easily copypasta in your projects. 
 
