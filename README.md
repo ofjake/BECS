@@ -27,7 +27,7 @@ Please ensure the snippet follows our guidelines:
 ##### Feedback:
 I welcome any feedback or suggestions for improving this repository.
 
-Happy coding! 🚀
+Happy coding! 
 
 ##### Credits:
 This project is created by JakeRMiller. 
